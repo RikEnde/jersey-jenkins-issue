@@ -1,0 +1,7 @@
+.idea/
+settings.xml
+deploy.sh
+**/*.iml
+script/env/
+target/
+**/*.class
